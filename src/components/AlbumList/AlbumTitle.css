@@ -1,0 +1,8 @@
+.album-title {
+  margin-bottom: 3px;
+}
+.album-title .album-title-year {
+  font-size: smaller;
+  font-style: italic;
+  color: grey;
+}
