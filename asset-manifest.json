@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/discography/static/css/main.473d4967.chunk.css",
+    "main.css": "/discography/static/css/main.1b45e929.chunk.css",
     "main.js": "/discography/static/js/main.47838212.chunk.js",
     "main.js.map": "/discography/static/js/main.47838212.chunk.js.map",
     "runtime-main.js": "/discography/static/js/runtime-main.fcfaa437.js",
@@ -8,15 +8,15 @@
     "static/js/2.a21159ca.chunk.js": "/discography/static/js/2.a21159ca.chunk.js",
     "static/js/2.a21159ca.chunk.js.map": "/discography/static/js/2.a21159ca.chunk.js.map",
     "index.html": "/discography/index.html",
-    "precache-manifest.cd7469418ab0ceb08567a3fba829ed25.js": "/discography/precache-manifest.cd7469418ab0ceb08567a3fba829ed25.js",
+    "precache-manifest.071102acc0539fa7d1ed95b849c7fecc.js": "/discography/precache-manifest.071102acc0539fa7d1ed95b849c7fecc.js",
     "service-worker.js": "/discography/service-worker.js",
-    "static/css/main.473d4967.chunk.css.map": "/discography/static/css/main.473d4967.chunk.css.map",
+    "static/css/main.1b45e929.chunk.css.map": "/discography/static/css/main.1b45e929.chunk.css.map",
     "static/js/2.a21159ca.chunk.js.LICENSE.txt": "/discography/static/js/2.a21159ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fcfaa437.js",
     "static/js/2.a21159ca.chunk.js",
-    "static/css/main.473d4967.chunk.css",
+    "static/css/main.1b45e929.chunk.css",
     "static/js/main.47838212.chunk.js"
   ]
 }
